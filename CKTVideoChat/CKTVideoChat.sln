@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CKTVideoChat", "CKTVideoChat\CKTVideoChat.csproj", "{DCE6F297-DB49-47FF-97EA-EC82545B6AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CKTChat.Client.Portable", "JabbR.Client.Portable\CKTChat.Client.Portable.csproj", "{3786FC2E-7FC9-43EC-B137-41B070DE37D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CKTChat.Client", "JabbR.Client\CKTChat.Client.csproj", "{A4A1D183-FD80-4DBD-806F-883DDADD4967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6F297-DB49-47FF-97EA-EC82545B6AE8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DCE6F297-DB49-47FF-97EA-EC82545B6AE8}.Debug|x86.ActiveCfg = Debug|x86
+		{DCE6F297-DB49-47FF-97EA-EC82545B6AE8}.Debug|x86.Build.0 = Debug|x86
+		{DCE6F297-DB49-47FF-97EA-EC82545B6AE8}.Release|Any CPU.ActiveCfg = Release|x86
+		{DCE6F297-DB49-47FF-97EA-EC82545B6AE8}.Release|x86.ActiveCfg = Release|x86
+		{DCE6F297-DB49-47FF-97EA-EC82545B6AE8}.Release|x86.Build.0 = Release|x86
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{3786FC2E-7FC9-43EC-B137-41B070DE37D8}.Release|x86.Build.0 = Release|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Debug|x86.Build.0 = Debug|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Release|x86.ActiveCfg = Release|Any CPU
+		{A4A1D183-FD80-4DBD-806F-883DDADD4967}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78325CD6-BB3F-4C85-A794-E0075043DAFB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chaudarywajid.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CKTVideoChat\\CKTVideoChat.csproj
+		SccProjectName1 = CKTVideoChat
+		SccLocalPath1 = CKTVideoChat
+		SccProjectUniqueName2 = JabbR.Client\\CKTChat.Client.csproj
+		SccProjectName2 = JabbR.Client
+		SccLocalPath2 = JabbR.Client
+		SccProjectUniqueName3 = JabbR.Client.Portable\\CKTChat.Client.Portable.csproj
+		SccProjectName3 = JabbR.Client.Portable
+		SccLocalPath3 = JabbR.Client.Portable
+	EndGlobalSection
+EndGlobal

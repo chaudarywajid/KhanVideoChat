@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CKTVideoChat"
+        xmlns:view="clr-namespace:CKTVideoChat.View"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="CKTVideoChat.RootWindow"
+        xmlns:OpenTok="clr-namespace:OpenTok;assembly=WPFVideoRenderer" 
+        mc:Ignorable="d"              
+        Title=" CKT Video CHaT" Icon="/Images/logo48.png" WindowState="Maximized">
+    <Grid Margin="1">
+        <UniformGrid x:Name="MainChatGrid" Rows="1" Columns="0" RenderTransformOrigin="0,0">
+            <view:MainLayout x:Name="mainLayout" />           
+        </UniformGrid>
+    </Grid>
+</Window>

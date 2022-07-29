@@ -1,0 +1,95 @@
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.exe.config
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.exe
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.pdb
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Themes.Material.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.csprojResolveAssemblyReference.cache
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\MainWindow.baml
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\App.baml
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\App.g.cs
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat_MarkupCompile.cache
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.g.resources
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.Properties.Resources.resources
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.csproj.GenerateResource.Cache
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.csproj.CoreCompileInputs.cache
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.exe
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.pdb
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\MFCapturer.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\opentok.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\x64\MFCapturer.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\x64\opentok.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\OpenTokNET.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\WPFVideoRenderer.dll
+C:\Users\chaud\Documents\Visual Studio 2017\Projects\CKTVideoChat\CKTVideoChat\bin\Debug\OpenTokNET.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.csprojResolveAssemblyReference.cache
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\MainWindow.baml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\VideoWindow.baml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\MainWindow.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\RootWindow.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\VideoWindow.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\View\MainDock.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\View\MainLayout.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\App.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat_MarkupCompile.cache
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat_MarkupCompile.lref
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\MFCapturer.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\opentok.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\x64\MFCapturer.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\x64\opentok.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.exe.config
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.exe
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.pdb
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\OpenTokNET.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.Docking.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Data.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Themes.Material.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Themes.Office2013.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\WPFVideoRenderer.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Newtonsoft.Json.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\OpenTokNET.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.Docking.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Telerik.Windows.Data.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Newtonsoft.Json.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\App.baml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\RootWindow.baml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\View\MainDock.baml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\View\MainLayout.baml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.g.resources
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.Properties.Resources.resources
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.csproj.GenerateResource.Cache
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.exe.licenses
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.csproj.CoreCompileInputs.cache
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.exe
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.pdb
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\Drew.Wpf.Flags.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat_Content.g.cs
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.exe.manifest
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTVideoChat.application
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.exe.manifest
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\obj\x86\Debug\CKTVideoChat.application
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTChat.Client.Portable.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTChat.Client.Portable.pdb
+C:\Code\CKTVideoChat\Main\CKTVideoChat\CKTVideoChat\bin\Debug\CKTChat.Client.Portable.dll.config

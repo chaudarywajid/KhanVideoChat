@@ -1,0 +1,77 @@
+﻿<UserControl
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"        
+		xmlns:local="clr-namespace:CKTVideoChat.View" xmlns:MaterialControls="clr-namespace:Telerik.Windows.Controls.MaterialControls;assembly=Telerik.Windows.Controls" xmlns:TabControl="clr-namespace:Telerik.Windows.Controls.TabControl;assembly=Telerik.Windows.Controls.Navigation" xmlns:Primitives="clr-namespace:Telerik.Windows.Controls.Primitives;assembly=Telerik.Windows.Controls.Navigation" x:Class="CKTVideoChat.View.MainDock">
+
+    <UserControl.Resources>
+
+        <DataTemplate x:Key="HeaderTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="new text"/>
+                <Image Source="logo32.png" Width="16" Height="16"/>
+            </StackPanel>
+        </DataTemplate>
+
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <telerik:RadMenuItem Header="HOME" />
+            <telerik:RadMenuItem Header="CONTACT" />
+            <telerik:RadMenuItem Header="ABOUT" />
+        </StackPanel>
+
+        <telerik:RadDocking x:Name="radDocking1" RetainPaneSizeMode="DockingAndFloating"
+									Grid.Row="1" Margin="0 0 0 10"									 
+									BorderThickness="0"
+									Padding="0">
+
+            <!--DocumentHost-->
+            <telerik:RadDocking.DocumentHost>
+                <telerik:RadSplitContainer>
+                    <telerik:RadPaneGroup HeaderBackground="Green">
+                        <telerik:RadPane Header="NotDragable" CanFloat="False" CanUserClose="False">
+                            <TextBlock TextWrapping="Wrap"
+                                        Text="This pane cannot be dragged, because it has its property CanFloat set 'False'." />
+                        </telerik:RadPane>
+                    </telerik:RadPaneGroup>
+                </telerik:RadSplitContainer>
+            </telerik:RadDocking.DocumentHost>
+
+            <telerik:RadSplitContainer MaxWidth="600" telerik:DockingPanel.InitialSize="400,150"   x:Name="LeftContainer" InitialPosition="DockedLeft">
+                <telerik:RadPaneGroup HeaderBackground="Green">
+                    <!--Users-->
+                    <telerik:RadPane x:Name="Pane1" Header="Users" CanFloat="False" CanUserClose="False">
+                        <Grid Margin="3 0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="users"/>
+                        </Grid>
+                    </telerik:RadPane>
+
+                    <!--Rooms-->
+                    <telerik:RadPane x:Name="Pane3" Header="Rooms">
+                        <Grid Margin="3 0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+
+
+                        </Grid>
+                    </telerik:RadPane>
+
+                </telerik:RadPaneGroup>
+            </telerik:RadSplitContainer>
+
+        </telerik:RadDocking>
+    </Grid>
+</UserControl>

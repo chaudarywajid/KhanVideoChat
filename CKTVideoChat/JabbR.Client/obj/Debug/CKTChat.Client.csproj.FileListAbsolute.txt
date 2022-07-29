@@ -1,0 +1,9 @@
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\obj\Debug\CKTChat.Client.csproj.CoreCompileInputs.cache
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\bin\Debug\CKTChat.Client.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\bin\Debug\CKTChat.Client.pdb
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\obj\Debug\CKTChat.Client.dll
+C:\Code\CKTVideoChat\Main\CKTVideoChat\JabbR.Client\obj\Debug\CKTChat.Client.pdb

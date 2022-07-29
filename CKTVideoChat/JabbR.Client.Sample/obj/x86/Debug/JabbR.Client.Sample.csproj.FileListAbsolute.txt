@@ -1,0 +1,53 @@
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.exe.config
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.exe
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.pdb
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Portable.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Portable.pdb
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.csproj.App.config
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.csprojResolveAssemblyReference.cache
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.exe
+C:\Users\chaud\Desktop\Shaheer Chat Solution\Testing\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.pdb
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.exe.config
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.exe
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.pdb
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.exe
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.pdb
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Portable.dll
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Extensions.dll
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Primitives.dll
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\Newtonsoft.Json.dll
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Portable.pdb
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Extensions.xml
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Primitives.xml
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\bin\Debug\Newtonsoft.Json.xml
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.csproj.App.config
+C:\Code\CKTJabbR\Main\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.csprojResolveAssemblyReference.cache
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.exe.config
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.exe
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Sample.pdb
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Portable.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Portable.pdb
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\JabbR.Client.Portable.dll.config
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.csproj.App.config
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.csprojResolveAssemblyReference.cache
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.csproj.CoreCompileInputs.cache
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.exe
+C:\Users\chaud\Desktop\Shaheer Chat Solution\JabbR-dev\JabbR.Client.Sample\obj\x86\Debug\JabbR.Client.Sample.pdb
